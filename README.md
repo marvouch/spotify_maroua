@@ -4,4 +4,4 @@ npm run dev
 
 # The project is hosted in this link : 
 
-https://spotify-clone-weld-one.vercel.app/
+https://glowing-cascaron-44f326.netlify.app
