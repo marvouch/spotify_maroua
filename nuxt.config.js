@@ -61,7 +61,7 @@ export default {
         ],
         grantType: 'authorization_code',
         responseType: 'code',
-        redirectUri: 'https://e88c-197-230-122-194.ngrok-free.app/callback',
+        redirectUri: 'https://glowing-cascaron-44f326.netlify.app/callback',
       },
     },
   },
